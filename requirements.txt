@@ -1,0 +1,10 @@
+h5py==3.1.0
+numpy==1.20.2
+opencv_python_headless==4.5.1.48
+pytorch_ssim==0.1
+scikit_image==0.18
+scipy==1.6.3
+torch==1.7.1
+tqdm==4.42.1
+jupyter
+tensorboard
