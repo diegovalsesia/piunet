@@ -28,7 +28,7 @@ pip install -r requirements.txt
 The code has been tested on Pytorch 1.7.1 for CUDA 10.1. Newer version will likely work as well.
 
 #### Load data from Kelvin Competition and create the training set and the validation set
-- Download the PROBA-V dataset from the [Kelvin Competition](https://kelvins.esa.int/proba-v-super-resolution/data/) and save it under _./Dataset/probav\_data_
+- Download the PROBA-V dataset from our train/validation partitioned version ([probav_data.zip](https://www.dropbox.com/s/0724byclle90nhg/probav_data.zip?dl=0)) and extract it under _./Dataset/probav\_data_
 - Load the dataset from the directories and save it to pickles by running _Save\_dataset\_pickles.ipynb_ notebook
 - Run the _preprocessing\_dataset.ipynb_ notebook to create training dataset and validation dataset for both NIR and RED bands
 
