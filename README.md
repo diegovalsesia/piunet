@@ -65,11 +65,8 @@ CUDA_VISIBLE_DEVICES=0 python Code/piunet/main.py --log_dir log_dir/piunet/ --sa
 Default parameters require approximately 18GB of GPU memory for training.
 
 #### Pretrained models
-- Pretrained model on training data (approximately journal results):
+- Pretrained model on training data (approximately journal results): [NIR](https://www.dropbox.com/s/hme35p9p3lrfj4s/nir_model_checkpoint.pt?dl=0), [RED](https://www.dropbox.com/s/sl5wgph3o86r7ah/red_model_checkpoint.pt?dl=0)
  
-
-- Pretrained model on training+validation data (approximately challenge results):
-
 
 #### Testing
 - Run the _testing\_notebook.ipynb_ notebook to run a trained model on some test data and look at the results.
