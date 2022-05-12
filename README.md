@@ -11,11 +11,11 @@ BibTex reference:
   title={Permutation invariance and uncertainty in multitemporal image super-resolution},
   author={Valsesia, Diego and Magli, Enrico},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={},
+  year={2022},
+  volume={60},
   number={},
-  pages={},
-  year={2021},
-  publisher={IEEE}
+  pages={1-12},
+  doi={10.1109/TGRS.2021.3130673}
 }
 ```
 
